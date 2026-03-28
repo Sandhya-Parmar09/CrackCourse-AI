@@ -187,7 +187,7 @@ export default function Home() {
 
       {/* Footer */}
       <footer className="bg-black/80 text-gray-400 py-6 text-center text-base border-t border-white/10 mt-10">
-        © 2025 CrackCourse AI — Made by Shubhraj
+        © 2025 CrackCourse AI
       </footer>
     </div>
   );
